@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/meter"
+        android:id="@+id/meter"/>
+    <item android:title="@string/kilometer"
+        android:id="@+id/km"/>
+    <item android:title="@string/miles"
+        android:id="@+id/miles"/>
+</menu>

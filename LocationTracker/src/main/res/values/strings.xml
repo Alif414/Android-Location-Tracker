@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="meter">Meter</string>
+    <string name="kilometer">Kilometer</string>
+    <string name="miles">Miles</string>
+    <string name="start">START SERVICE</string>
+    <string name="stop">STOP SERVICE</string>
+</resources>
